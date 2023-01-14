@@ -11,6 +11,15 @@ pyod.models.abod module
     :show-inheritance:
     :inherited-members:
 
+pyod.models.alad module
+-----------------------
+
+.. automodule:: pyod.models.alad
+    :members:
+    :undoc-members:
+    :show-inheritance:
+    :inherited-members:
+
 pyod.models.anogan module
 -------------------------
 
@@ -167,6 +176,15 @@ pyod.models.knn module
 ----------------------
 
 .. automodule:: pyod.models.knn
+    :members:
+    :undoc-members:
+    :show-inheritance:
+    :inherited-members:
+
+pyod.models.kpca module
+-----------------------
+
+.. automodule:: pyod.models.kpca
     :members:
     :undoc-members:
     :show-inheritance:
